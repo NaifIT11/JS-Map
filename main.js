@@ -8,4 +8,5 @@ fruits.set("b" , "banana");
 fruits.set("c" , "carrot");
 
 /*using get to get by putting the key */
-fruits.get()
+
+console.log(fruits.get("c"));
