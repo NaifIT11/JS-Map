@@ -6,3 +6,6 @@ const fruits = new Map();
 fruits.set("a" , "apple");
 fruits.set("b" , "banana");
 fruits.set("c" , "carrot");
+
+/*using get to get by putting the key */
+fruits.get()
