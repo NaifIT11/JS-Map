@@ -14,3 +14,7 @@ console.log(fruits.get("c"));
 /* using size() api to see the size of the Map */
 
 console.log(fruits.size);
+
+/* deleting carrot by using delete() */
+
+console.log(fruits.delete("c"));
